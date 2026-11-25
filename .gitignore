@@ -1,0 +1,7 @@
+*.pem
+*.key
+*.kubeconfig
+admin.conf
+super-admin.conf
+config.toml.bak
+.kube/
